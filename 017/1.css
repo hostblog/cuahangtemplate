@@ -1,0 +1,19 @@
+*{margin:0;padding:0; }
+ 
+
+ #topmenu-outer {
+    background: #de2929 !important;
+}
+.menudanhmuc-thaiaiti ul li a {
+    color: #1fd0c8 !important;
+    padding-top: 15px;
+    padding-bottom: 9px;
+    font: bold 24px arial !important;
+}
+
+/* hieu tran  */
+#topmenu1 ul li a {
+  
+    font-size: 22px !important;
+   
+}
