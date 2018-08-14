@@ -1,5 +1,10 @@
 *{margin:0;padding:0;box-shadow: 0 0 black;}
 
+img.warning-icon-h {
+    font-size: 15px;
+    width: 16px;
+}
+
 #footer a {
     color: #363636!important;
 }
