@@ -1,4 +1,25 @@
 *{margin:0;padding:0; }
+
+.menudanhmuc-thaiaiti ul li a {
+    font-size: 15px !important;
+    font-weight: normal!important;
+    padding-bottom: 20px !important;
+}
+
+a.trigger {}
+
+.menudanhmuc-thaiaiti li a:hover {
+    background-color: #ff9d06!important;
+    /* padding-bottom: 20px; */
+}
+
+.menudanhmuc-thaiaiti ul li ul li a:hover {
+    background-color: #2882bc!important;
+}
+
+#topmenu1 ul li a {
+    /* font-size: 16px !important; */
+}
  .img_effect img {
     opacity: 0.95;
     -webkit-transform: scale3d(1, 1, 1);
