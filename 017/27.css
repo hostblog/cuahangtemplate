@@ -1,4 +1,20 @@
-*{margin:0;padding:0; }
+*{margin:0;padding:0;box-shadow: 0 0 black;}
+
+#footer a {
+    color: #363636!important;
+}
+
+#footer h2 {
+    color: black!important;
+    font-size: 16px!important;
+    font-weight: bold!important;
+    font-family: Arial;
+}
+
+#footer {
+    background: none!important;
+    /* color:  black; */
+}
 
 .menudanhmuc-thaiaiti ul li a {
     font-size: 15px !important;
