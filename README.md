@@ -1,2 +1,0 @@
-# cuahangtemplate
-SAVE TEMPLATE
